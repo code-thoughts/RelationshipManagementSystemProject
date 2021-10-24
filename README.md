@@ -2,7 +2,7 @@
 <b>Just a simple first java project - learning java</b>
 
 This simple desktop application, a personal project aimed more at improving personal relations and communication between people, through a series of questions and answers.
-This is my first project as I am teaching myself java, and have followed it with a different frontend in version2 using Springboot and Thmymeleaf. 
+This is my first project as I am teaching myself java, and have followed it up with a different frontend in version2 using Springboot and Thmymeleaf. 
 
 <b>Pages</b>
 
